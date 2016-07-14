@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28193" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "PT_ID": "U4", "NORTHING": 1141949.2699, "EASTING": 234197.40590000001, "ELEVATION": 914.61360000000002, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234197.4059, 1141949.269899999956, 914.6136 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "U3", "NORTHING": 1141898.47, "EASTING": 234215.60000000001, "ELEVATION": 912.76599999999996, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234215.6, 1141898.47, 912.766 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "U2", "NORTHING": 1141967.71, "EASTING": 234139.20000000001, "ELEVATION": 915.29899999999998, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234139.2, 1141967.71, 915.299 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "U1", "NORTHING": 1141947.8799999999, "EASTING": 234196.35999999999, "ELEVATION": 914.74599999999998, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234196.36, 1141947.88, 914.746 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "LP22014", "NORTHING": 1141846.6399000001, "EASTING": 234215.3003, "ELEVATION": 900.3605, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234215.3003, 1141846.6399, 900.3605 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "LP12014", "NORTHING": 1141858.1764, "EASTING": 234163.06950000001, "ELEVATION": 899.33849999999995, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234163.0695, 1141858.1764, 899.3385 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "CPJ", "NORTHING": 1141857.9828999999, "EASTING": 234183.21309999999, "ELEVATION": 900.56399999999996, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234183.2131, 1141857.982899999944, 900.564 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "CPH", "NORTHING": 1141947.1910999999, "EASTING": 234132.62330000001, "ELEVATION": 913.46709999999996, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234132.6233, 1141947.191099999938, 913.4671 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "CPB", "NORTHING": 1141977.49, "EASTING": 234143.82999999999, "ELEVATION": 914.38400000000001, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234143.83, 1141977.49, 914.384 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "BASE2014", "NORTHING": 1141864.2546999999, "EASTING": 234195.60620000001, "ELEVATION": 903.59079999999994, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234195.6062, 1141864.254699999932, 903.5908 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "BASE", "NORTHING": 1141870.0004, "EASTING": 234209.16260000001, "ELEVATION": 905.3981, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234209.1626, 1141870.0004, 905.3981 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16L3", "NORTHING": 1141864.7067, "EASTING": 234200.78529999999, "ELEVATION": 903.83190000000002, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234200.785299999989, 1141864.706699999981, 903.8319 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16L2", "NORTHING": 1141862.4794999999, "EASTING": 234215.18729999999, "ELEVATION": 903.71979999999996, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234215.1873, 1141862.479499999899, 903.7198 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16L1", "NORTHING": 1141877.7350000001, "EASTING": 234209.984, "ELEVATION": 906.12779999999998, "DESCRIPTIO": null }, "geometry": { "type": "Point", "coordinates": [ 234209.984, 1141877.735, 906.1278 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16J46005", "NORTHING": 1141891.6666000001, "EASTING": 234166.0226, "ELEVATION": 906.39250000000004, "DESCRIPTIO": "L003" }, "geometry": { "type": "Point", "coordinates": [ 234166.022619711206062, 1141891.666558316443115, 906.392544501380712 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16J46004", "NORTHING": 1141890.0723999999, "EASTING": 234165.17980000001, "ELEVATION": 906.27380000000005, "DESCRIPTIO": "L003" }, "geometry": { "type": "Point", "coordinates": [ 234165.179776238859631, 1141890.072436984628439, 906.273838188265927 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16J46003", "NORTHING": 1141890.3307, "EASTING": 234166.86420000001, "ELEVATION": 906.33590000000004, "DESCRIPTIO": "L003" }, "geometry": { "type": "Point", "coordinates": [ 234166.864159369841218, 1141890.330737328156829, 906.335879167276289 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16J46002", "NORTHING": 1141892.8609, "EASTING": 234166.8143, "ELEVATION": 906.46969999999999, "DESCRIPTIO": "L003" }, "geometry": { "type": "Point", "coordinates": [ 234166.814300829457352, 1141892.86092499550432, 906.469707489393386 ] } },
+{ "type": "Feature", "properties": { "PT_ID": "16J46001", "NORTHING": 1141892.7237, "EASTING": 234165.32610000001, "ELEVATION": 906.46810000000005, "DESCRIPTIO": "L003" }, "geometry": { "type": "Point", "coordinates": [ 234165.326105233631097, 1141892.723678868031129, 906.468148032273803 ] } }
+]
+}
